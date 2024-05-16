@@ -46,4 +46,7 @@ Aqui estão alguns dos principais comandos SQL utilizados no MySQL:
 14. **`ALTER TABLE nome_da_tabela ADD coluna tipo;`**
     - **Função:** Adiciona uma nova coluna à tabela existente.
 
+15. **`DESCRIBE nome_tabela;`**
+     - **Função:** Visualiza à tabela existente com todas as informações detalhadas.
+
 
