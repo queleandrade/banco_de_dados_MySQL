@@ -1,13 +1,13 @@
 ### 1FN
 
-contas_pagar(ID_contasPagar, data_vencimento, valor, status_pagamento, fornecedor_correspondente)
-fornecedor(ID_fornecedor, endereco, nome, telefone, e-mail)
-produto(ID_produto, descrição, nome, preço, quantidade_estoque)
-pagamento(ID_pagamento, data, valor, tipo, conta_correspondente)
-cliente(ID_cliente, nome, telefone, endereco, e-mail)
-pedido(ID_pedido, cliente, data, status)
-contas_receber(ID_contasReceber, data_vencimento, valor, status_pagamento, fornecedor_correspondente)
-item_pedido(ID_itemPedido, referencia_produto, referencia_produto, quantidade, preco_unitario)
+contas_pagar(ID_contasPagar, data_vencimento, valor, status_pagamento, fornecedor_correspondente)<br>
+fornecedor(ID_fornecedor, endereco, nome, telefone, e-mail)<br>
+produto(ID_produto, descrição, nome, preço, quantidade_estoque)<br>
+pagamento(ID_pagamento, data, valor, tipo, conta_correspondente)<br>
+cliente(ID_cliente, nome, telefone, endereco, e-mail)<br>
+pedido(ID_pedido, cliente, data, status)<br>
+contas_receber(ID_contasReceber, data_vencimento, valor, status_pagamento, fornecedor_correspondente)<br>
+item_pedido(ID_itemPedido, referencia_produto, referencia_produto, quantidade, preco_unitario)<br>
 
 ### 2FN
 
