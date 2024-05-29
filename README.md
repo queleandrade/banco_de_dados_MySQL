@@ -22,15 +22,24 @@ Este repositório contém materiais relacionados ao estudo de SQL usando o MySQL
 ## Estrutura do Repositório
 
 ```
-├── exemplos/
-│   ├── criar_banco.sql
-│   ├── criar_tabela.sql
-│   ├── tipos_de_dados.sql
-│   ├── stored_procedures.sql
-│   └── triggers.sql
-│
+├── Mini_mundos/
+|   └── sistema_gestao_financeira/
+│       ├── descricao.md
+│       ├── diagrama.md
+│       ├── modelo_ER.md
+│       ├── normalizacao.md
+│       └── script_completo.sql
+└── exemplos/
+|    ├── criar_banco.sql
+│    ├── criar_tabela.sql
+│    ├── insert.sql
+│    ├── limit_valoresDefault.md
+|    ├── principais_comandos.md
+│    ├── select.md
+│    └── tipos_de_dados.md
 └── recursos/
-    └── config.txt
+|   ├── config.md
+│   └── dowload_MySQL.sql
 ```
 
 ## Como Usar
