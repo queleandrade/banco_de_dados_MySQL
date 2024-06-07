@@ -78,7 +78,7 @@ END //
 DELIMITER ;
 
 
--- Como chamar cada uma das stores procedures definidas em uma query
+-- Como chamar cada uma das stores procedures definidas anteriormente em uma query
 
 CALL AtualizarNota(1, 2, 95.5); 
 CALL ObterAlunosPorTurma(3);
