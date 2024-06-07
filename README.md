@@ -26,17 +26,25 @@ Este repositório contém materiais relacionados ao estudo de SQL usando o MySQL
 |   └── sistema_gestao_financeira/
 │       ├── descricao.md
 │       ├── diagrama.md
-│       ├── modelo_ER.md
+│       ├── inserindo_dados.sql
+|       ├── modelo_ER.md
 │       ├── normalizacao.md
-│       └── script_completo.sql
+|       ├── script_completo.sql
+|       ├── select.sql
+|       ├── strocedProcedurs.sql
+│       └── trigerrs.sql
 └── exemplos/
 |    ├── criar_banco.sql
 │    ├── criar_tabela.sql
 │    ├── insert.sql
 │    ├── limit_valoresDefault.md
 |    ├── principais_comandos.md
-│    ├── select.md
-│    └── tipos_de_dados.md
+│    ├── select.sql
+|    ├── strocedProcedurs.md
+|    ├── strocedProcedurs.sql
+|    ├── tipos_de_dados.md
+|    ├── triggers.md
+│    └── triggers.sql
 └── recursos/
 |   ├── config.md
 │   └── dowload_MySQL.sql
