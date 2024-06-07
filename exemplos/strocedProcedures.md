@@ -17,3 +17,13 @@ Stored Procedures (ou Procedimentos Armazenados) são blocos de código SQL arma
 
 ### Redução do Tráfego de Rede
 - Reduz o tráfego de rede, já que o cliente pode chamar uma procedure com uma única chamada em vez de enviar múltiplas instruções SQL.
+
+## parâmetros: IN, OUT, e INOUT
+### Parâmetros IN
+ Passa valores para a stored procedure, não pode ser modificado dentro da procedure.
+
+### Parâmetros OUT
+Retorna valores da stored procedure para o chamador, pode ser modificado dentro da procedure.
+
+### Parâmetros INOUT
+Passa valores para a stored procedure e retorna valores modificados para o chamador.
