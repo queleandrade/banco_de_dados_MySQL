@@ -20,10 +20,10 @@ Stored Procedures (ou Procedimentos Armazenados) são blocos de código SQL arma
 
 ## Parâmetros: IN, OUT, e INOUT
 ### Parâmetros IN
- Passa valores para a stored procedure, não pode ser modificado dentro da procedure.
+- Passa valores para a stored procedure, não pode ser modificado dentro da procedure.
 
 ### Parâmetros OUT
-Retorna valores da stored procedure para o chamador, pode ser modificado dentro da procedure.
+- Retorna valores da stored procedure para o chamador, pode ser modificado dentro da procedure.
 
 ### Parâmetros INOUT
-Passa valores para a stored procedure e retorna valores modificados para o chamador.
+- Passa valores para a stored procedure e retorna valores modificados para o chamador.
